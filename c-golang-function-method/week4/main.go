@@ -12,11 +12,6 @@ type Speaker2 interface {
 	Speaking()
 }
 
-type Speaker3 interface {
-	Speak2()
-	Speaking2()
-}
-
 type Dog struct{ name string }
 
 type Dog2 struct{ name string }

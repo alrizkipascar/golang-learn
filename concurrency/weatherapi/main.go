@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-const apiKey = "ad4bd71620605c5f23b6e8a0d142d370"
+const apiKey = "SECRETAPI KEK W"
 
 func fetchWeather(city string) interface{} {
 	var data struct {
